@@ -5,12 +5,17 @@ contributor:
     agent_name: Halsey, Gaius Leonard
     gutenberg_agent_id: '57678'
     url: http://www.gutenberg.org/2009/agents/57678
+covers:
+- cover_type: archival
+  image_path: 74834-h/images/cover.jpg
 creator:
   author:
     agent_name: Halsey, Francis Whiting
     gutenberg_agent_id: '57677'
     url: http://www.gutenberg.org/2009/agents/57677
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74834#The-pioneers-of-Unadilla-village-b-and-reminiscences-of-village-life-and-of-Panama-and-Califo_
 gutenberg_issued: '2024-12-03'
 gutenberg_type: Text
 identifiers:
